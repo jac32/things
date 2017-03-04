@@ -6,3 +6,4 @@ courgette
 broccoli
 turnip
 peppers
+pumpkin
