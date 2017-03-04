@@ -2,3 +2,4 @@ tomato
 apple
 orange
 banana
+pineapple
